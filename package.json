@@ -1,5 +1,5 @@
 {
-  "name": "konva",
+  "name": "konva-web",
   "widgetName": "Konva",
   "version": "1.0.0",
   "description": "A wrapper for the Konva library to annotate graphics",
@@ -28,6 +28,8 @@
     "@mendix/pluggable-widgets-tools": "^9.0.0"
   },
   "dependencies": {
-    "classnames": "^2.2.6"
+    "classnames": "^2.2.6",
+    "konva": "^8.3.13",
+    "react-konva": "^18.2.3"
   }
 }
